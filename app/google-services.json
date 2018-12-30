@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "209884834286",
+    "firebase_url": "https://fleetbattle-443e9.firebaseio.com",
+    "project_id": "fleetbattle-443e9",
+    "storage_bucket": "fleetbattle-443e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209884834286:android:6caab37c476f62c7",
+        "android_client_info": {
+          "package_name": "com.example.idanc.fleetbattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209884834286-rc7nb9lj35m6kdiid4ah95v5lkdk1h8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idanc.fleetbattle",
+            "certificate_hash": "3ed305e616c07e6060dab37a5b61437ff64011d7"
+          }
+        },
+        {
+          "client_id": "209884834286-nj839lc4rqp9grv50c68dlbdrji67dgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVo-ASlNsKC47iMqCAMlNBQOY2rdx-lrg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209884834286-nj839lc4rqp9grv50c68dlbdrji67dgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

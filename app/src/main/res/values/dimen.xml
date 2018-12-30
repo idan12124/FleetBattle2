@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="w_h">30dp</dimen>
+    <dimen name="one_dp">1dp</dimen>
+    <dimen name="withe_all">310dp</dimen>
+    <dimen name="spase_y">12dp</dimen>
+    <dimen name="spase_x">8dp</dimen>
+    <dimen name="pic">20dp</dimen>
+
+</resources>
